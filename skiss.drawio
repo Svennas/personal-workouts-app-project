@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" modified="2024-03-13T14:38:36.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="BIiHMkirCZiXJUaNbPiU" version="24.0.2" type="device">
+  <diagram name="Page-1" id="_3YK0qJIJ6PUFvRXg6E6">
+    <mxGraphModel dx="1386" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="800" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="800" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="330" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-5" value="&lt;b&gt;&lt;font face=&quot;Garamond&quot;&gt;Bob&#39;s bodybuilding&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-6" value="My programs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-7" value="Create new program" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-8" value="Public programs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-9" value="My programs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-10" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;u&gt;Program1&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Program2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Program3&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Program4&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="630" width="800" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="630" width="800" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="750" width="330" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="460" y="750" width="330" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-28" value="&lt;b&gt;&lt;font face=&quot;Garamond&quot;&gt;Bob&#39;s bodybuilding&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-29" value="My programs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-30" value="Create new program" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-31" value="Public programs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-32" value="Create new program" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="710" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-33" value="Name:&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-34" value="Exercises:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="811" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-35" value="Default exercises" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="710" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-36" value="Exercise-title&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Exercise-description&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Exercise-sets Exercise-reps&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="740" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-37" value="Create" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1050" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-38" value="Exercise-title&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Exercise-description&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Exercise-sets Exercise-reps&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="690" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-39" value="Exercise-title&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Exercise-description&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Exercise-sets Exercise-reps&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="770" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-40" value="Exercise-title&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Exercise-description&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Exercise-sets Exercise-reps&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="850" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-41" value="Exercise-title&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Exercise-description&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Exercise-sets Exercise-reps&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="930" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="140" y="795" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="360" y="820" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="830" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="455" y="190" width="330" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-47" value="Exercises:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="231" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-48" value="Exercise-title&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Exercise-description&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Exercise-sets Exercise-reps&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-49" value="Exercise-title&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Exercise-description&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Exercise-sets Exercise-reps&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-50" value="Exercise-title&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Exercise-description&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Exercise-sets Exercise-reps&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="347" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="oiQrXGn7Vg2CPVwv93Rd-52" value="Edit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="680" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
